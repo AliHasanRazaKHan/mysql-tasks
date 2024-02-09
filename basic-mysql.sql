@@ -15,3 +15,4 @@ SELECT * FROM tasks;
 UPDATE tasks SET status = 1 WHERE entity_id BETWEEN 1 AND 3;
 DELETE FROM tasks WHERE entity_id = 5;
 TRUNCATE tasks;
+DROP TABLE tasks;

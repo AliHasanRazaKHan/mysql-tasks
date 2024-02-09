@@ -11,3 +11,4 @@ VAlues(1,"Create New Database","CREATE new mysql database","30m","hassanRaza",0)
 (3,"Alter Table Fields","Update the columns of table according to point 3 and 4","1d","hassanRaza",0),
 (4,"Delete Database","Delete the database when all tasks are finished","0.5d","hassanRaza",0),
 (5,"Php tutorial","Check all the php tutorials on w3school","7d","hassanRaza",1);
+SELECT * FROM tasks;
